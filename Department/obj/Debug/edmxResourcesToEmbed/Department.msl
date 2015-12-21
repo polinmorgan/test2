@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DepartmentModelStoreContainer" CdmEntityContainer="DepartmentEntities">
+    <EntitySetMapping Name="Polina_Department">
+      <EntityTypeMapping TypeName="DepartmentModel.Polina_Department">
+        <MappingFragment StoreEntitySet="Polina_Department">
+          <ScalarProperty Name="Department_id" ColumnName="Department_id" />
+          <ScalarProperty Name="Department_name" ColumnName="Department_name" />
+          <ScalarProperty Name="Department_phone" ColumnName="Department_phone" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

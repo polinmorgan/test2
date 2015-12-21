@@ -1,0 +1,8 @@
+c:\users\polina\documents\visual studio 2015\Projects\test\Department\bin\Debug\Department.dll.config
+c:\users\polina\documents\visual studio 2015\Projects\test\Department\bin\Debug\Department.dll
+c:\users\polina\documents\visual studio 2015\Projects\test\Department\bin\Debug\Department.pdb
+c:\users\polina\documents\visual studio 2015\Projects\test\Department\bin\Debug\EntityFramework.dll
+c:\users\polina\documents\visual studio 2015\Projects\test\Department\bin\Debug\EntityFramework.xml
+c:\users\polina\documents\visual studio 2015\Projects\test\Department\obj\Debug\Department.dll
+c:\users\polina\documents\visual studio 2015\Projects\test\Department\obj\Debug\Department.pdb
+c:\users\polina\documents\visual studio 2015\Projects\test\Department\obj\Debug\Department.csprojResolveAssemblyReference.cache
